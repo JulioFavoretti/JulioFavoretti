@@ -7,8 +7,8 @@
 ##### 🧾 Entre em contato: julio3.cesar56@gmail.com‎ ‎ 
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img height="180em" width="500" src="https://github-readme-stats.vercel.app/api?username=JulioFavoretti&show_icons=false&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioFavoretti&layout=compact&langs_count=16&theme=radical"/>
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=JulioFavoretti&show_icons=false&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioFavoretti&layout=compact&langs_count=16&theme=radical"/>
 </div>
 
 ### Linguagens e Ferramentas:
