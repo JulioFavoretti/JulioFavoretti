@@ -20,7 +20,8 @@
 </div>
 <div align="center">
   <img align="left" height="190" src="https://media.tenor.com/2a4KThsm4YgAAAAj/gaming-game-on.gif" style="display: inline-block;"/>
-  <img height="190" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" style="display: inline-block;"/>
+  <img align="center" height="190" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" style="display: inline-block;"/>
+  <img align="right" height="190" src="https://i.pinimg.com/originals/be/b2/b4/beb2b4984adde75060fcbea7882f383f.gif" style="display: inline-block;"/>
 </div>
 
 
