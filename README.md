@@ -18,5 +18,5 @@
   <img align="center" alt="Julio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Julio-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-<img align="right" height="190" src="https://github.com/user-attachments/assets/26de34ec-bba9-4765-bb7d-f03b88d0fb8b"  />
+<img align="right" height="190" src="https://media.tenor.com/2a4KThsm4YgAAAAj/gaming-game-on.gif"  />
 
