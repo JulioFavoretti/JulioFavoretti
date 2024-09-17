@@ -18,5 +18,10 @@
   <img align="center" alt="Julio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Julio-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-<img align="center" height="190" src="https://media.tenor.com/2a4KThsm4YgAAAAj/gaming-game-on.gif"  />
+<div align="center">
+  <img align="left" height="190" src="https://media.tenor.com/2a4KThsm4YgAAAAj/gaming-game-on.gif" style="display: inline-block;"/>
+  <img height="190" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" style="display: inline-block;"/>
+</div>
+
+
 
