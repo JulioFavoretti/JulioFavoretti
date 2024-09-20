@@ -3,7 +3,7 @@
 ##### 👨‍🎓 Tenho 16 anos!
 ##### 📘 Sou estudante do SENAI
 ##### 😉 #Team DS - Desenvolvimento de Sistemas
-##### 👨‍💻 Tecnologias: HTML / CSS / Python / C# ...
+##### 👨‍💻 Tecnologias: HTML / CSS / Python / C++ ...
 ##### 🧾 Entre em contato: julio3.cesar56@gmail.com‎ ‎ 
 
 <div style="display: flex; justify-content: center; align-items: center;">
