@@ -1,10 +1,11 @@
 ## Olá! Eu sou o Julio! 😁
 
-##### 👨‍🎓 Tenho 16 anos!
-##### 📘 Sou estudante do SENAI
+##### 👨‍🎓 Tenho 18 anos!
+##### 🎓 Universitário em Análise e Desenvolvimento de Sistemas - UNIP
+##### 📘 Sou formado no SENAI em Desenvolvimento de Sistemas
 ##### 😉 #Team DS - Desenvolvimento de Sistemas
 ##### 👨‍💻 Tecnologias: HTML / CSS / Python / C++ ...
-##### 🧾 Entre em contato: julio3.cesar56@gmail.com‎ ‎ 
+##### 🧾 Entre em contato: contato.jfavoretti@gmail.com‎ ‎ 
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <img height="150em"  src="https://github-readme-stats.vercel.app/api?username=JulioFavoretti&show_icons=false&theme=merko&include_all_commits=true"/>
