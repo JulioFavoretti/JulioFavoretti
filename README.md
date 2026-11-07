@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Julio! 😁
 
-##### 👨‍🎓 Tenho 18 anos!
+##### 👨‍🎓 Tenho 19 anos!  2007❤️
 ##### 🎓 Universitário em Análise e Desenvolvimento de Sistemas - UNIP
 ##### 📘 Sou formado no SENAI em Desenvolvimento de Sistemas
 ##### 😉 #Team DS - Desenvolvimento de Sistemas
